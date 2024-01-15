@@ -1,0 +1,6 @@
+FLASK_ENV=development
+FLASK_APP=api.py
+DB_PATH=db/webshop.db
+RESET_DB=True
+SECRET=9Ku5lQo&6R2mOY$#2SoY1tU&V1I0vj5qrT39MvMoJlGTl71cEtZEMm^N6FpCePjK
+API_PREFIX=/api
